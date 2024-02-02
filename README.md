@@ -1,4 +1,4 @@
 # First-Repository
 Hi! This is my first repository.
 <br>
-Author: UroojRehman
+Author: UroojRehman(Faculty Member)
